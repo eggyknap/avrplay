@@ -3,4 +3,5 @@ Learn the following:
     Interrupts
     Serial comm (e.g. via FTDI cable to host computer)
     SPI / I2C / something
+    External oscillator
     Random peripherals?
